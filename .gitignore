@@ -1,0 +1,5 @@
+bonfim-venv/
+__pycache__/
+*.pyc
+*.log
+.env
