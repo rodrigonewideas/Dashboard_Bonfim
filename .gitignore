@@ -1,21 +1,17 @@
 # Ambiente virtual
 bonfim-venv/
-.env
 
-# Python cache
+# Caches do Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Logs e temporários
-*.log
-*.tmp
+# Arquivos de ambiente (não versionar senhas)
+.env
 
-# VSCode ou IDEs
+# Configs de editor
 .vscode/
 .idea/
 
-# Arquivos do sistema
-.DS_Store
-Thumbs.db
+# Arquivos temporários
+*.log
+*.tmp
