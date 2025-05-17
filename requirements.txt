@@ -1,0 +1,9 @@
+fdb==2.0.3
+firebird-base==2.0.0
+protobuf==5.29.4
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+six==1.17.0
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+uvicorn[standard]==0.29.0
