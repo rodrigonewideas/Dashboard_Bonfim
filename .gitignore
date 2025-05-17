@@ -1,5 +1,21 @@
+# Ambiente virtual
 bonfim-venv/
+.env
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Logs e temporários
 *.log
-.env
+*.tmp
+
+# VSCode ou IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
